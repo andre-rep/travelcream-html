@@ -22,14 +22,3 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [Css](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
-### Autor
----
-
-<a href="https://github.com/andre-rep">
- <img style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/36203075?v=4" width="100px;" alt=""/>
- <br />
- <sub><b>André Nascimento</b></sub></a> <a href="https://github.com/andre-rep" title="Github">🚀</a>
-
-
-Feito com ❤️ por André Nascimento
